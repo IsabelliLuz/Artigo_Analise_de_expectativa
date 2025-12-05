@@ -18,6 +18,7 @@ Os resultados orientam políticas de saúde, planejamento de serviços e investi
 
 <img width="543" height="320" alt="image" src="https://github.com/user-attachments/assets/22205838-6ed2-45ec-a5db-9a4ec400da48" />
 
+
 -A expectativa de vida ao nascer de mulheres no Brasil é consistentemente mais alta do que a dos homens, mas a diferença tem diminuído ao longo do período projetado (2015-2035).
 
 -A diferença de longevidade entre os gêneros caiu de 7,3 anos em 2015 para 6,2 anos em 2035, indicando uma tendência de convergência.
@@ -25,6 +26,9 @@ Os resultados orientam políticas de saúde, planejamento de serviços e investi
 -A principal explicação para essa redução é a melhoria da saúde masculina, especialmente pela redução da mortalidade por causas externas.
 
 -As políticas públicas, como o PNAISH, têm um impacto significativo na melhoria da saúde e na longevidade masculina.
+
+<img width="289" height="297" alt="image" src="https://github.com/user-attachments/assets/efbae32e-050a-42df-8110-d013296bbb10" />
+
 
 ### ⦁ Sugestões para Estudos Futuros
 
